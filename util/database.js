@@ -5,7 +5,7 @@ const sequelize=new Sequelize('project','root',null,{
     host:'localhost',
     logging: false,
     dialectOptions:{
-        password: 'Rockrolland@981'
+        password: null
     }
 });
 
