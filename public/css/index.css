@@ -1,0 +1,43 @@
+body{
+    display: block;
+    justify-content: center;
+    
+}
+header
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    background-color: rgb(21, 11, 50);
+    color: aliceblue;
+    width: 100%;
+}
+.form-box
+{
+    display: flex;
+    justify-content: center;
+}
+form
+{
+    background-color: rgb(219, 217, 215);
+    padding-inline: 10px;
+    height: max-content;
+    width: 500px;
+    color: rgb(21, 16, 16);
+    justify-content: center;
+    border: 2px solid rgb(194, 29, 29);
+}
+input
+{
+    width: 80%;
+    margin-bottom: 10px;
+}
+form button{
+    width: 100px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: brown;
+    color: aliceblue;
+    margin-bottom: 10px;
+}
