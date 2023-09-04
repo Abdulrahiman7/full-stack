@@ -1,0 +1,29 @@
+
+header
+{
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+}
+.form
+{
+    height: 250px;
+    width: 500px;
+    display: flex;
+    border: 2px solid brown;
+    justify-content: center;
+    align-items: center;
+}
+.product-list
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+}
+.list
+{
+    display: flex;
+}
